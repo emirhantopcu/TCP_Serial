@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/TCP_Serial">
+        <file>Daco_4980085.png</file>
+    </qresource>
+</RCC>
